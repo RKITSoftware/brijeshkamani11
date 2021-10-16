@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.exe
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.deps.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.runtimeconfig.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.dll
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.pdb
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.dll
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.pdb
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.genruntimeconfig.cache

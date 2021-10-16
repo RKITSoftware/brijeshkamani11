@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.exe
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.deps.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.runtimeconfig.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.dll
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.pdb
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.dll
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.pdb
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.genruntimeconfig.cache

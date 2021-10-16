@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\bin\Debug\netcoreapp3.1\LoopDemo.exe
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\bin\Debug\netcoreapp3.1\LoopDemo.deps.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\bin\Debug\netcoreapp3.1\LoopDemo.runtimeconfig.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\bin\Debug\netcoreapp3.1\LoopDemo.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\bin\Debug\netcoreapp3.1\LoopDemo.dll
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\bin\Debug\netcoreapp3.1\LoopDemo.pdb
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.dll
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.pdb
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\LoopDemo\obj\Debug\netcoreapp3.1\LoopDemo.genruntimeconfig.cache
