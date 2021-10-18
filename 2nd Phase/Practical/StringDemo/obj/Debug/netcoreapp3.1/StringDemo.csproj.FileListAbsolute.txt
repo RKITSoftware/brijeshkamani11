@@ -11,3 +11,4 @@ C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\Str
 C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.dll
 C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.pdb
 C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\MY\RKIT\Online Traning\Uploaded\2nd Phase\Practical\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.csproj.AssemblyReference.cache
