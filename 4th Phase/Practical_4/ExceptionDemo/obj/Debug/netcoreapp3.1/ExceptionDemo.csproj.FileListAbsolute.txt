@@ -1,0 +1,14 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\bin\Debug\netcoreapp3.1\ExceptionDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\ExceptionDemo\obj\Debug\netcoreapp3.1\ExceptionDemo.genruntimeconfig.cache

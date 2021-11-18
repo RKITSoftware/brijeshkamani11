@@ -1,0 +1,13 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.genruntimeconfig.cache

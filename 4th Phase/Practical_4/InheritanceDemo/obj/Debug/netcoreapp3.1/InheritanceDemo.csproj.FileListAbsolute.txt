@@ -1,0 +1,14 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.genruntimeconfig.cache

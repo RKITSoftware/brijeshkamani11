@@ -1,0 +1,14 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.genruntimeconfig.cache

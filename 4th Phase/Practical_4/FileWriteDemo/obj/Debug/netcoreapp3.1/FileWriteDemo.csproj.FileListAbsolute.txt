@@ -1,0 +1,13 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\bin\Debug\netcoreapp3.1\FileWriteDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\bin\Debug\netcoreapp3.1\FileWriteDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\bin\Debug\netcoreapp3.1\FileWriteDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\bin\Debug\netcoreapp3.1\FileWriteDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\bin\Debug\netcoreapp3.1\FileWriteDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\bin\Debug\netcoreapp3.1\FileWriteDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\obj\Debug\netcoreapp3.1\FileWriteDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\obj\Debug\netcoreapp3.1\FileWriteDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\obj\Debug\netcoreapp3.1\FileWriteDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\obj\Debug\netcoreapp3.1\FileWriteDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\obj\Debug\netcoreapp3.1\FileWriteDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\obj\Debug\netcoreapp3.1\FileWriteDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\FileWriteDemo\obj\Debug\netcoreapp3.1\FileWriteDemo.genruntimeconfig.cache

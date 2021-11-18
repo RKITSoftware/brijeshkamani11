@@ -1,0 +1,14 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\4th Phase\Practical_4\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.genruntimeconfig.cache
