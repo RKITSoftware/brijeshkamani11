@@ -1,0 +1,14 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\bin\Debug\netcoreapp3.1\Access_Specifire_Demo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\bin\Debug\netcoreapp3.1\Access_Specifire_Demo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\bin\Debug\netcoreapp3.1\Access_Specifire_Demo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\bin\Debug\netcoreapp3.1\Access_Specifire_Demo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\bin\Debug\netcoreapp3.1\Access_Specifire_Demo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\bin\Debug\netcoreapp3.1\Access_Specifire_Demo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.genruntimeconfig.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\Access_Specifire_Demo\obj\Debug\netcoreapp3.1\Access_Specifire_Demo.csproj.AssemblyReference.cache

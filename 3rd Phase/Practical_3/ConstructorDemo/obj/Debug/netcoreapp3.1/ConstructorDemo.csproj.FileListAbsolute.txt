@@ -1,0 +1,13 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\bin\Debug\netcoreapp3.1\ConstructorDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\bin\Debug\netcoreapp3.1\ConstructorDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\bin\Debug\netcoreapp3.1\ConstructorDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\bin\Debug\netcoreapp3.1\ConstructorDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\bin\Debug\netcoreapp3.1\ConstructorDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\bin\Debug\netcoreapp3.1\ConstructorDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\obj\Debug\netcoreapp3.1\ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\obj\Debug\netcoreapp3.1\ConstructorDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\obj\Debug\netcoreapp3.1\ConstructorDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\obj\Debug\netcoreapp3.1\ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\obj\Debug\netcoreapp3.1\ConstructorDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\obj\Debug\netcoreapp3.1\ConstructorDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ConstructorDemo\obj\Debug\netcoreapp3.1\ConstructorDemo.genruntimeconfig.cache

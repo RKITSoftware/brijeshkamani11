@@ -1,0 +1,13 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\bin\Debug\netcoreapp3.1\GenericCollectionDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\bin\Debug\netcoreapp3.1\GenericCollectionDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\bin\Debug\netcoreapp3.1\GenericCollectionDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\bin\Debug\netcoreapp3.1\GenericCollectionDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\bin\Debug\netcoreapp3.1\GenericCollectionDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\bin\Debug\netcoreapp3.1\GenericCollectionDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\obj\Debug\netcoreapp3.1\GenericCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\obj\Debug\netcoreapp3.1\GenericCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\obj\Debug\netcoreapp3.1\GenericCollectionDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\obj\Debug\netcoreapp3.1\GenericCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\obj\Debug\netcoreapp3.1\GenericCollectionDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\obj\Debug\netcoreapp3.1\GenericCollectionDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\GenericCollectionDemo\obj\Debug\netcoreapp3.1\GenericCollectionDemo.genruntimeconfig.cache

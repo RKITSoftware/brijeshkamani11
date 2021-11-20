@@ -1,0 +1,14 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\bin\Debug\netcoreapp3.1\ClassTypesDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\bin\Debug\netcoreapp3.1\ClassTypesDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\bin\Debug\netcoreapp3.1\ClassTypesDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\bin\Debug\netcoreapp3.1\ClassTypesDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\bin\Debug\netcoreapp3.1\ClassTypesDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\bin\Debug\netcoreapp3.1\ClassTypesDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.genruntimeconfig.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\ClassTypesDemo\obj\Debug\netcoreapp3.1\ClassTypesDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\bin\Debug\netcoreapp3.1\PropertyDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.csproj.AssemblyReference.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\PropertyDemo\obj\Debug\netcoreapp3.1\PropertyDemo.genruntimeconfig.cache

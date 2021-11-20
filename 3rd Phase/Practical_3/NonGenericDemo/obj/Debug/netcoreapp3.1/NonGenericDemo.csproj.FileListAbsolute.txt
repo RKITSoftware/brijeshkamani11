@@ -1,0 +1,13 @@
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.exe
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.deps.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.runtimeconfig.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.runtimeconfig.dev.json
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\bin\Debug\netcoreapp3.1\NonGenericDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.AssemblyInfoInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.AssemblyInfo.cs
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.dll
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.pdb
+C:\Users\brije\OneDrive\Documents\MY\RKIT\Online Traning\Uploaded\3rd Phase\Practical_3\NonGenericDemo\obj\Debug\netcoreapp3.1\NonGenericDemo.genruntimeconfig.cache
