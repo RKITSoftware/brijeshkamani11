@@ -1,0 +1,29 @@
+﻿@model MVCProject.ViewModels.MoviesViewModel
+
+@{
+	ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+	<h1>List Of Movies</h1>
+	<table class="table">
+		<tr>
+			<th>
+				Movie Name
+			</th>
+			<th>
+				Movie Price
+			</th>
+		</tr>
+		@foreach (var movie in Model.Movies)
+		{
+			<td>@Html.ActionLink(movie.Name,"Edit","Movies", new { id = movie.Id }) </td>
+			<td>@movie.BuyPrice</td>
+		}
+	</table>
+</div>
+
+
+
+
+@**@
