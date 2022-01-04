@@ -13,9 +13,10 @@
 		</th>
 
 		<th>
-			Name
+			
 		</th>
 		<th>
+			Name
 		</th>
 		<th>
 		</th>
@@ -34,9 +35,9 @@
 				@item.MovieName
 			<td>
 			<td>
-				@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+				@Html.ActionLink("Edit", "Edit/" + item.MovieId ) |
 
-				@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+				@Html.ActionLink("Delete", "Delete/" + item.MovieId)
 			</td>
 		</tr>
 	}
