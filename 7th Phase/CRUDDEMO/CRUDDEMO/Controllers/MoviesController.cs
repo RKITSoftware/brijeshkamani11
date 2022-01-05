@@ -18,26 +18,24 @@ namespace CRUDDEMO.Controllers
             return View(movies);
         }
 
-        // GET: Movies/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
+        
         // GET: Movies/Add
         public ActionResult Add()
         {
-            return View();
+            Movie movie = new Movie();
+            return View(movie);
         }
 
         // POST: Movies/Create
         [HttpPost]
-        public ActionResult Create(Movie movie)
+        public ActionResult Save(Movie movie)
         {
             try
             {
                 // TODO: Add insert logic here
-                string message = BLMovie.insertMovie(movie);
+                
+                string message = BLMovie.savingMovie(movie);
+                
                 if (message == "SUCCESS")
                     return RedirectToAction("Index");
                 else
@@ -53,12 +51,13 @@ namespace CRUDDEMO.Controllers
         public ActionResult Edit(int id)
         {
             Movie movie = BLMovie.SelectMovieByID(id);
+            
             return View("Add",movie);
         }
 
         // POST: Movies/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
+        public ActionResult Edit(int id, Movie movie)
         {
             try
             {
