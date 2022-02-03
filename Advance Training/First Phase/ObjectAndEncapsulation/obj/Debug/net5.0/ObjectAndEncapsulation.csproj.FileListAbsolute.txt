@@ -1,0 +1,32 @@
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.exe
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.deps.json
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.runtimeconfig.json
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.runtimeconfig.dev.json
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ref\ObjectAndEncapsulation.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.pdb
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.csproj.AssemblyReference.cache
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.AssemblyInfoInputs.cache
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.AssemblyInfo.cs
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ref\ObjectAndEncapsulation.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.pdb
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.genruntimeconfig.cache
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.exe
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.deps.json
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.runtimeconfig.json
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.runtimeconfig.dev.json
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ref\ObjectAndEncapsulation.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\bin\Debug\net5.0\ObjectAndEncapsulation.pdb
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.csproj.AssemblyReference.cache
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.AssemblyInfoInputs.cache
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.AssemblyInfo.cs
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ref\ObjectAndEncapsulation.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.pdb
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\brijeshkamani11\Advance Training\First Phase\ObjectAndEncapsulation\obj\Debug\net5.0\ObjectAndEncapsulation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gtbTwoCao8Z3tw8gXpuj3o2u7Kws7va20n2giOO6zHaFR+oXckcammdUTD0dSRX9COoip6D1Z05Cv71bZh5wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRIJESH.K\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance Training\\First Phase\\InheritanceDemo\\InheritanceDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRIJESH.K\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\BRIJESH.K\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\BRIJESH.K\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\BRIJESH.K\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

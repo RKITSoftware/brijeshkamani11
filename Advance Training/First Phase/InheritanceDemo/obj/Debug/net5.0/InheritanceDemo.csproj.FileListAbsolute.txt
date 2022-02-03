@@ -1,0 +1,16 @@
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.exe
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.deps.json
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.json
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\bin\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\brijeshkamani\Documents\MY\RKIT\Online Traning\Uploaded\Advance\First Phase\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.genruntimeconfig.cache

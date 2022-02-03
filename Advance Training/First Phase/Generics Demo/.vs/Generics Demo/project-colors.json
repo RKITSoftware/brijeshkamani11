@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2afb3eb1-9c03-48d6-a23b-cf93f04f067c": {
+      "ProjectGuid": "2afb3eb1-9c03-48d6-a23b-cf93f04f067c",
+      "DisplayName": "Generics Demo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

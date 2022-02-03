@@ -1,0 +1,15 @@
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\bin\Debug\net6.0\Generics Demo.exe
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\bin\Debug\net6.0\Generics Demo.deps.json
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\bin\Debug\net6.0\Generics Demo.runtimeconfig.json
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\bin\Debug\net6.0\Generics Demo.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\bin\Debug\net6.0\ref\Generics Demo.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\bin\Debug\net6.0\Generics Demo.pdb
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.csproj.AssemblyReference.cache
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.AssemblyInfoInputs.cache
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.AssemblyInfo.cs
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.csproj.CoreCompileInputs.cache
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\ref\Generics Demo.dll
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.pdb
+C:\Users\BRIJESH.K\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance Training\First Phase\Generics Demo\obj\Debug\net6.0\Generics Demo.genruntimeconfig.cache
