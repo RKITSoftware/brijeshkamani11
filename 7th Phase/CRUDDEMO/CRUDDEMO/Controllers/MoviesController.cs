@@ -14,7 +14,7 @@ namespace CRUDDEMO.Controllers
         {
             
             Movies movies = new Movies()
-            { movies = BLMovie.listMovies() };
+            { movies = BLMovies.listMovies() };
             return View(movies);
         }
 
@@ -34,7 +34,7 @@ namespace CRUDDEMO.Controllers
             {
                 // TODO: Add insert logic here
                 
-                string message = BLMovie.savingMovie(movie);
+                string message = BLMovies.savingMovie(movie);
                 
                 if (message == "SUCCESS")
                     return RedirectToAction("Index");
@@ -50,7 +50,7 @@ namespace CRUDDEMO.Controllers
         // GET: Movies/Edit/5
         public ActionResult Edit(int id)
         {
-            Movie movie = BLMovie.SelectMovieByID(id);
+            Movie movie = BLMovies.SelectMovieByID(id);
             
             return View("Add",movie);
         }
@@ -74,7 +74,7 @@ namespace CRUDDEMO.Controllers
         // GET: Movies/Delete/5
         public ActionResult Delete(int id)
         {
-            string message = BLMovie.deleteMovie(id);
+            string message = BLMovies.deleteMovie(id);
             if (message == "SUCCESS")
                 return RedirectToAction("Index");
             else

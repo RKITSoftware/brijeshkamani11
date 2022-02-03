@@ -22,7 +22,7 @@ namespace CRUDDEMO.Controllers
         public IEnumerable<Movie> GetMovies()
         {
             Movies movies = new Movies()
-            { movies = BLMovie.listMovies() };
+            { movies = BLMovies.listMovies() };
             return movies.movies;
         }
 
@@ -39,7 +39,7 @@ namespace CRUDDEMO.Controllers
         [HttpGet]
         public IHttpActionResult GetMovieByID(int movieID)
         {
-            Movie movie = BLMovie.SelectMovieByID(movieID);
+            Movie movie = BLMovies.SelectMovieByID(movieID);
 
             return movie.MovieId > 0 ? Ok(movie) : throw new HttpResponseException(System.Net.HttpStatusCode.NotFound);
         }
@@ -57,7 +57,7 @@ namespace CRUDDEMO.Controllers
         [HttpPost]
         public IHttpActionResult Post([FromBody] Movie movie)
         {
-            return BLMovie.savingMovie(movie) == "SUCCESS" ? Ok(200) : throw new HttpResponseException(System.Net.HttpStatusCode.BadRequest);
+            return BLMovies.savingMovie(movie) == "SUCCESS" ? Ok(200) : throw new HttpResponseException(System.Net.HttpStatusCode.BadRequest);
         }
 
         /// <summary>
@@ -78,7 +78,7 @@ namespace CRUDDEMO.Controllers
         public IHttpActionResult Put(int movieId, [FromBody] Movie movie)
         {
             movie.MovieId = movieId;
-            return BLMovie.savingMovie(movie) == "SUCCESS" ? Ok(200) : throw new HttpResponseException(System.Net.HttpStatusCode.BadRequest);
+            return BLMovies.savingMovie(movie) == "SUCCESS" ? Ok(200) : throw new HttpResponseException(System.Net.HttpStatusCode.BadRequest);
 
         }
 
@@ -94,7 +94,7 @@ namespace CRUDDEMO.Controllers
         [HttpDelete]
         public IHttpActionResult Delete(int movieId)
         {
-            return BLMovie.deleteMovie(movieId) == "SUCCESS" ? Ok(200) : throw new HttpResponseException(System.Net.HttpStatusCode.BadRequest);
+            return BLMovies.deleteMovie(movieId) == "SUCCESS" ? Ok(200) : throw new HttpResponseException(System.Net.HttpStatusCode.BadRequest);
         }
     }
 }

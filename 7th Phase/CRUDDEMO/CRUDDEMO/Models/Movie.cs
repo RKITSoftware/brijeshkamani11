@@ -10,7 +10,6 @@ namespace CRUDDEMO.Models
         /// </summary>
         [Key]
         [DisplayName("Movie ID")]
-
         public int MovieId { get; set; }
 
         /// <summary>
@@ -26,6 +25,7 @@ namespace CRUDDEMO.Models
         /// Release Year of Movie
         /// </summary>
         [DisplayName("Release Year")]
+        [Range(1800,9999)]
         public int ReleaseYear { get; set; }
 
         /// <summary>
@@ -51,7 +51,5 @@ namespace CRUDDEMO.Models
         [DataType(DataType.Text)]
         [StringLength(45, ErrorMessage = "Only Max 45 Characters Allowed in Movie Country Field")]
         public string MovieCountry { get; set; }
-
-
     }
 }

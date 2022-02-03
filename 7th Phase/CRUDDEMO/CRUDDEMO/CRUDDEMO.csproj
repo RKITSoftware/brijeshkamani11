@@ -229,7 +229,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Movie.cs" />
-    <Compile Include="MovieBL\BLMovie.cs" />
+    <Compile Include="BLClasses\BLMovie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View Model\Movies.cs" />
   </ItemGroup>

@@ -5,7 +5,7 @@ using MySql.Data.MySqlClient;
 
 namespace CRUDDEMO.MovieBL
 {
-    public class BLMovie
+    public class BLMovies
     {
         /// <summary>
         /// For Getting List of Movies From Database
@@ -34,7 +34,7 @@ namespace CRUDDEMO.MovieBL
                             // Reading From Result one by one
                             while (reader.Read())
                             {
-                                // Adding Result to List
+                                //Adding Result to List
                                 movies.Add(new Movie()
                                 {
                                     MovieId = Convert.ToInt32(reader["movieID"]),
@@ -42,7 +42,7 @@ namespace CRUDDEMO.MovieBL
                                     MovieCountry = reader["movie_country"].ToString(),
                                     MovieLang = reader["movie_lang"].ToString(),
                                     DirectorName = reader["director_name"].ToString(),
-                                    ReleaseYear = Convert.ToInt32(reader["release_year"])
+                                    ReleaseYear = (reader["release_year"].ToString() != null && reader["release_year"].ToString() != "") ? Convert.ToInt32(reader["release_year"].ToString()) : 0
                                 });
                             }
                         }
