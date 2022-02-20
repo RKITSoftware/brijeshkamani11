@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Advance Training",
+    "\\Advance Training\\First Phase",
+    "\\Advance Training\\First Phase\\DelegatesDemo"
   ],
-  "SelectedNode": "\\Practical_5.sln",
+  "SelectedNode": "\\Advance Training\\First Phase\\WindowsFormsApp1",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <ID>1</ID>
+    <Name>Brijesh</Name>
+    <Salary>10000</Salary>
+    <Birthdate>2001-03-30T00:00:00</Birthdate>
+    <JoiningDate>2022-01-01T00:00:00</JoiningDate>
+  </Employee>
+  <Employee>
+    <ID>2</ID>
+    <Name>XML</Name>
+    <Salary>30000</Salary>
+    <Birthdate>1990-04-03T00:00:00</Birthdate>
+    <JoiningDate>2000-01-01T00:00:00</JoiningDate>
+  </Employee>
+</ArrayOfEmployee>
