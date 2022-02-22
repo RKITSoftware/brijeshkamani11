@@ -146,105 +146,6 @@ namespace SerializationDeserializationDemo
         #region Private Methods
 
         /// <summary>
-        /// It will serialize List of Employee object into JSON string.
-        /// </summary>
-        /// <param name="objEmployees"> Contains Data of List of Employees. </param>
-        /// <returns> string contains Data of List of Employees in JSON formate. </returns>
-        private string SerializeIntoJSON(List<Employee> objEmployees)
-        {
-            return JsonConvert.SerializeObject(objEmployees);
-        }
-
-        /// <summary>
-        /// It will De-serialize object from JSON string of Backup_JSON file into List of Employee Object..
-        /// </summary>
-        /// <returns> List of Employees object that backup from File or null if Backup not found. </returns>
-        private List<Employee> DeserializeFromJSON()
-        {
-            if (File.Exists(_jsonFilePath))
-                return JsonConvert.DeserializeObject<List<Employee>>(File.ReadAllText(_jsonFilePath));
-            return null;
-        }
-
-        /// <summary>
-        /// It will serialize List of Employee object into XML string.
-        /// </summary>
-        /// <param name="objEmployees"> Contains Data of List of Employees. </param>
-        /// <returns> string contains Data of List of Employees in XML formate. </returns>
-        private string SerializeIntoXML(List<Employee> objEmployees)
-        {
-            XmlSerializer xmlserializer = new XmlSerializer(typeof(List<Employee>));
-            using (StringWriter stringWriter = new StringWriter())
-            {
-                xmlserializer.Serialize(stringWriter, objEmployees);
-                return stringWriter.ToString();
-            }
-        }
-
-        /// <summary>
-        /// It will De-serialize object from XML string of Backup_XML file into List of Employee Object..
-        /// </summary>
-        /// <returns> List of Employees object that backup from File or null if Backup not found. </returns>
-        private List<Employee> DeserializeFromXML()
-        {
-            if (File.Exists(_xmlFilePath))
-            {
-                XmlSerializer xmlDeserializer = new XmlSerializer(typeof(List<Employee>));
-                using (TextReader reader = new StreamReader(_xmlFilePath))
-                {
-                    return (List<Employee>)xmlDeserializer.Deserialize(reader);
-                }
-
-            }
-            return null;
-        }
-
-        /// <summary>
-        /// It will Serialize Data of object of List of Employee into Binary formate and save Data in Backup_Binary file.
-        /// </summary>
-        /// <param name="objEmployees"> refer to object which data will be saved. </param>
-        /// <returns> Boolean Value that indicate whether data successfully saved or not. </returns>
-        private bool SerializeIntoBinary(List<Employee> objEmployees)
-        {
-            try
-            {
-                using (FileStream objFileStream = new FileStream(_binaryFilePath, FileMode.OpenOrCreate, FileAccess.ReadWrite))
-                {
-                    new BinaryFormatter().Serialize(objFileStream, objEmployees);
-                    MessageBox.Show("Data saved in " + _binaryFilePath.Substring(13) + " file in Backup Folder.");
-                    return true;
-                }
-            }
-            catch (IOException ie)
-            {
-                MessageBox.Show(ie.Message);
-            }
-            catch (Exception e)
-            {
-                MessageBox.Show(e.Message);
-
-            }
-            return false;
-
-        }
-
-        /// <summary>
-        /// It will De-serialize object from Binary serialized formated file into List of Employee Object..
-        /// </summary>
-        /// <returns> List of Employees object that backup from File or null if Backup not found. </returns>
-        private List<Employee> DeserializeFromBinary()
-        {
-            if (File.Exists(_binaryFilePath))
-            {
-                using (FileStream filestream = new FileStream(_binaryFilePath, FileMode.OpenOrCreate))
-                {
-                    return (List<Employee>)new BinaryFormatter().Deserialize(filestream);
-                }
-            }
-            return null;
-        }
-
-        /// <summary>
         /// It will Backup data of List of Employee into File in JSON Formate.
         /// </summary>
         /// <param name="objEmployees"> refer to Object Which data will be saved into File. </param>
@@ -331,17 +232,71 @@ namespace SerializationDeserializationDemo
         }
 
         /// <summary>
-        /// It will Save String Data into Given File Path.
+        /// It will serialize List of Employee object into JSON string.
         /// </summary>
-        /// <param name="filepath"> Contains File Path Where Data Will be Saved. </param>
-        /// <param name="stringdata"> Contain Data a String That will be saved. </param>
-        private void SaveStringToFile(string filepath, string stringdata)
+        /// <param name="objEmployees"> Contains Data of List of Employees. </param>
+        /// <returns> string contains Data of List of Employees in JSON formate. </returns>
+        private string SerializeIntoJSON(List<Employee> objEmployees)
+        {
+            return JsonConvert.SerializeObject(objEmployees);
+        }
+
+        /// <summary>
+        /// It will De-serialize object from JSON string of Backup_JSON file into List of Employee Object..
+        /// </summary>
+        /// <returns> List of Employees object that backup from File or null if Backup not found. </returns>
+        private List<Employee> DeserializeFromJSON()
+        {
+            if (File.Exists(_jsonFilePath))
+                return JsonConvert.DeserializeObject<List<Employee>>(File.ReadAllText(_jsonFilePath));
+            return null;
+        }
+
+        /// <summary>
+        /// It will serialize List of Employee object into XML string.
+        /// </summary>
+        /// <param name="objEmployees"> Contains Data of List of Employees. </param>
+        /// <returns> string contains Data of List of Employees in XML formate. </returns>
+        private string SerializeIntoXML(List<Employee> objEmployees)
+        {
+            using (StringWriter stringWriter = new StringWriter())
+            {
+                new XmlSerializer(typeof(List<Employee>)).Serialize(stringWriter, objEmployees);
+                return stringWriter.ToString();
+            }
+        }
+
+        /// <summary>
+        /// It will De-serialize object from XML string of Backup_XML file into List of Employee Object..
+        /// </summary>
+        /// <returns> List of Employees object that backup from File or null if Backup not found. </returns>
+        private List<Employee> DeserializeFromXML()
+        {
+            if (File.Exists(_xmlFilePath))
+            {
+                using (TextReader reader = new StreamReader(_xmlFilePath))
+                {
+                    return (List<Employee>) new XmlSerializer(typeof(List<Employee>)).Deserialize(reader);
+                }
+            }
+            return null;
+        }
+
+        /// <summary>
+        /// It will Serialize Data of object of List of Employee into Binary formate and save Data in Backup_Binary file.
+        /// </summary>
+        /// <param name="objEmployees"> refer to object which data will be saved. </param>
+        /// <returns> Boolean Value that indicate whether data successfully saved or not. </returns>
+        private bool SerializeIntoBinary(List<Employee> objEmployees)
         {
             try
             {
-                File.WriteAllText(filepath, stringdata);
-                MessageBox.Show("Data saved in " + filepath.Substring(13) + " file in Backup Folder..");
-
+                using (FileStream objFileStream = new FileStream(_binaryFilePath, FileMode.OpenOrCreate, FileAccess.ReadWrite))
+                {
+                    new BinaryFormatter().Serialize(objFileStream, objEmployees);
+                    MessageBox.Show("Data saved in " + _binaryFilePath.Substring(13) + " file in Backup Folder.");
+                    return true;
+                }
             }
             catch (IOException ie)
             {
@@ -350,7 +305,26 @@ namespace SerializationDeserializationDemo
             catch (Exception e)
             {
                 MessageBox.Show(e.Message);
+
             }
+            return false;
+
+        }
+
+        /// <summary>
+        /// It will De-serialize object from Binary serialized formated file into List of Employee Object..
+        /// </summary>
+        /// <returns> List of Employees object that backup from File or null if Backup not found. </returns>
+        private List<Employee> DeserializeFromBinary()
+        {
+            if (File.Exists(_binaryFilePath))
+            {
+                using (FileStream filestream = new FileStream(_binaryFilePath, FileMode.OpenOrCreate))
+                {
+                    return (List<Employee>)new BinaryFormatter().Deserialize(filestream);
+                }
+            }
+            return null;
         }
 
         /// <summary>
@@ -371,6 +345,32 @@ namespace SerializationDeserializationDemo
             }
 
         }
+
+        /// <summary>
+        /// It will Save String Data into Given File Path.
+        /// </summary>
+        /// <param name="filepath"> Contains File Path Where Data Will be Saved. </param>
+        /// <param name="stringdata"> Contain Data a String That will be saved. </param>
+
+        private void SaveStringToFile(string filepath, string stringdata)
+        {
+            try
+            {
+                File.WriteAllText(filepath, stringdata);
+                MessageBox.Show("Data saved in " + filepath.Substring(13) + " file in Backup Folder..");
+
+            }
+            catch (IOException ie)
+            {
+                MessageBox.Show(ie.Message);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+            }
+        }
+
+
         #endregion
     }
 }

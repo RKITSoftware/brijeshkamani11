@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\EventDemo\\EventDemo.csproj",
+      "projectUniqueName": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\EventDemo\\EventDemo.csproj",
       "projectName": "EventDemo",
-      "projectPath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\EventDemo\\EventDemo.csproj",
+      "projectPath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\EventDemo\\EventDemo.csproj",
       "packagesPath": "C:\\Users\\brijeshkamani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\EventDemo\\obj\\",
+      "outputPath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\EventDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brijeshkamani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -181,7 +181,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

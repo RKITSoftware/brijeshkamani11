@@ -11,7 +11,7 @@ namespace SingleDelegateDemo
         #region Public Static Methods
 
         /// <summary>
-        /// An Extenstion Method for List class to filter some values from List According to specified condition.
+        /// An Extension Method for List class to filter some values from List According to specified condition.
         /// </summary>
         /// <param name="list"> Current Object of List. </param>
         /// <param name="callbackFilterOnListDelegate"> A delegate that accepts FilterOnListDelegate Type Method. </param>

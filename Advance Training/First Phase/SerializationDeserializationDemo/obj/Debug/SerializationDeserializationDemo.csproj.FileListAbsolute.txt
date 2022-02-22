@@ -14,3 +14,4 @@ C:\Users\brijeshkamani\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploa
 C:\Users\brijeshkamani\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance\SerializationDeserializationDemo\bin\Debug\SerializationDeserializationDemo.application
 C:\Users\brijeshkamani\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance\SerializationDeserializationDemo\obj\Debug\SerializationDeserializationDemo.exe.manifest
 C:\Users\brijeshkamani\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance\SerializationDeserializationDemo\obj\Debug\SerializationDeserializationDemo.application
+C:\Users\brijeshkamani\OneDrive - rkitsoftware.com\Documents\RKIT Training\Uploades\Advance\SerializationDeserializationDemo\obj\Debug\SerializationDeserializationDemo.csproj.AssemblyReference.cache

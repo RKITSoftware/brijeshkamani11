@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ylRNtdhdV9BOo9LWw/AOMf15jTwIy946govv64nfyzSg6J94bWfGo1veLWPTXvoasCYDCI2GIUl0AsGvgi49pg==",
+  "dgSpecHash": "CA6L+akGT1Dop6Wy+2pT4M/SArcPTuVSzPDtKUSuRTfpuCap4x8ALMkwGWszsZRPGbKl7zRCUjfqcVdjF4+eMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\EventDemo\\EventDemo.csproj",
+  "projectFilePath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\EventDemo\\EventDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brijeshkamani\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\brijeshkamani\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"

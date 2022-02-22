@@ -10,8 +10,15 @@
   <Employee>
     <ID>2</ID>
     <Name>XML</Name>
-    <Salary>30000</Salary>
-    <Birthdate>1990-04-03T00:00:00</Birthdate>
-    <JoiningDate>2000-01-01T00:00:00</JoiningDate>
+    <Salary>45000</Salary>
+    <Birthdate>1950-03-03T00:00:00</Birthdate>
+    <JoiningDate>2010-02-01T00:00:00</JoiningDate>
+  </Employee>
+  <Employee>
+    <ID>3</ID>
+    <Name>454</Name>
+    <Salary>0</Salary>
+    <Birthdate>0001-01-01T00:00:00</Birthdate>
+    <JoiningDate>0001-01-01T00:00:00</JoiningDate>
   </Employee>
 </ArrayOfEmployee>

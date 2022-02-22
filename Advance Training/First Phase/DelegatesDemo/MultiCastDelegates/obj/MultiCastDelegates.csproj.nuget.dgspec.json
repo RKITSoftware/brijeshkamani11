@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRIJESH.K\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj": {}
+    "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRIJESH.K\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj": {
+    "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRIJESH.K\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj",
+        "projectUniqueName": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj",
         "projectName": "MultiCastDelegates",
-        "projectPath": "C:\\Users\\BRIJESH.K\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj",
-        "packagesPath": "C:\\Users\\BRIJESH.K\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRIJESH.K\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\Advance Training\\First Phase\\DelegatesDemo\\MultiCastDelegates\\obj\\",
+        "projectPath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\DelegatesDemo\\MultiCastDelegates\\MultiCastDelegates.csproj",
+        "packagesPath": "C:\\Users\\brijeshkamani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Advance\\DelegatesDemo\\MultiCastDelegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BRIJESH.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brijeshkamani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
