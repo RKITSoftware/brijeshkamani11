@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open JQuery_FormValidation.html",
+            "file": "c:\\Users\\brijeshkamani\\OneDrive - rkitsoftware.com\\Documents\\RKIT Training\\Uploades\\Github\\brijeshkamani11\\GUI Training\\JQuery\\JQuery_FormValidation.html"
+        }
+    ]
+}

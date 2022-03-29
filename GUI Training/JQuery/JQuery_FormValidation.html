@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>jQuery Validation - Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+        .error {
+            color: red;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="col-md-6 col-md-offset-3">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    Student Registration
+                </div>
+                <div class="panel-body">
+                    <form id="stdform">
+                        <label for="username">Username</label>
+                        <input type="text" class="form-control" name="username" placeholder="Username" />
+                        <br/>
+                        <label for="email">Email Id</label>
+                        <input type="text" class="form-control" name="email" placeholder="Email" />
+                        <br/>
+                        <label for="password">Password</label>
+                        <input type="password" class="form-control" name="password" placeholder="Password" id="password" />
+                        <br/>
+                        <label for="confirm">Confirm Password</label>
+                        <input type="password" class="form-control" name="confirm" placeholder="Confirm Password" />
+                        <br/>
+                        <label for="fname">First Name</label>
+                        <input type="text" class="form-control" name="fname" placeholder="First Name" />
+                        <br/>
+                        <label for="lname">Last Name</label>
+                        <input type="text" class="form-control" name="lname" placeholder="Last Name" />
+                        <br/>
+                        <label for="gender">Gender</label>
+                        <div class="gender">
+                            <label class="radio-inline"><input type="radio" name="gender" class = "form-contorl"/>Male</label>
+                            <label class="radio-inline"><input type="radio" name="gender" class = "form-contorl"/>Female</label>
+                            <div id="radioError"></div>
+                        </div>
+                        <br/>
+                        <label for="hobbies">Hobbies</label>
+                        <div class="hobbies">
+                            <label class="checkbox-inline"><input type="checkbox" name = "hobbies">Cricket</label>
+                            <label class="checkbox-inline"><input type="checkbox" name = "hobbies">Football</label>
+                            <label class="checkbox-inline"><input type="checkbox" name = "hobbies">Hockey</label>
+                            <label class="checkbox-inline"><input type="checkbox" name = "hobbies">Tennis</label>
+                        </div>
+                        <div id="checkboxError"></div>
+                        <br/>
+                        <label for="country">Country</label>
+                        <select class="form-control" name="country">
+                        	<option value="0" selected="" disabled="">--SELECT--</option>
+                            <option>India</option>
+                            <option>Australia</option>
+                            <option>Japan</option>
+                            <option>China</option>
+                            <option>South Africa</option>
+                        </select>
+                        <br/>
+                        <label for="address">Address</label>
+                        <textarea class="form-control" name="address" placeholder="Address"></textarea>
+                        <br/>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                    <p id="formData"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="validate.js"></script>
+
+</body>
+
+</html>

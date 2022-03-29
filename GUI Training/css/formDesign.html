@@ -1,0 +1,80 @@
+<html>
+
+<head>
+    <title> Student Registration Form </title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        
+        h3 {
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css" /> </head>
+
+<body>
+    <div id="container">
+        <h3> STUDENT REGISTRATION FORM </h3>
+        <div class="stuImage"> <img class="image" id="Profile" alt="Profile Image" src="student_profile_photo.png" height="150px" width="150px">
+            <div class="middleText">
+                <div class="text">Student Image</div>
+            </div>
+        </div>
+        <form action="#" id="myForm" ;>
+            <div class="row">
+                <div class="col-25"> <label for="First_Name">First Name:</label></div>
+                <div class="col-75"> <input type="text" id="First_Name" placeholder="First Name" required autofocus maxlength="50" /> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Last_Name">Last Name : </label> </div>
+                <div class="col-75"> <input type="text" id="Last_Name" placeholder="Last Name" required maxlength="50" /> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Gender">Gender : </label> </div>
+                <div class="col-75"> <input type="radio" id="radiomale" name="Gender" value="male" />Male <input type="radio" id="radiofemale" name="Gender" value="female" /> Female </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Mobile">Mobile No. </label> </div>
+                <div class="col-75"> <input type="text" id="Mobile" placeholder="Mobile Number" maxlength="13" required/> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Email">Email : </label> </div>
+                <div class="col-75"> <input type="email" id="Email" placeholder="Email Id" maxlength="250" autocapitalize="" required/> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Password">Password : </label> </div>
+                <div class="col-75"><input type="Password" id="Password" placeholder="Password" maxlength="250" required /> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Address">Address : </label> </div>
+                <div class="col-75"> <textarea id="Address" rows="5" cols="20" placeholder="Address" maxlength="500" /> </textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Birthdate">Birth Date : </label></div>
+                <div class="col-75"> <input type="date" id="Birthdate" min="1990-01-01" max='2021-01-01' /> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="City"> City :</label></div>
+                <div class="col-75"> <select id="City" aria-placeholder="City"> <option value="Rajkot">Rajkot</option> <option value="Surat">Surat</option> </select> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Pincode">Pincode</label> </div>
+                <div class="col-75"> <input type="number" id="Pincode" placeholder="Pincode" /> </div>
+            </div>
+            <div class="row">
+                <div class="col-25"><label for="Course">Select Course :</label> </div> <br>
+                <div class="col-75"> <input type="radio" name="Course" id="radioComputer" name value="Computer" />Computer <input type="radio" name="Course" id="radioMechanical" value="Mechanical" /> Mechanical <input type="radio" name="Course" id="radioCivil" value="Civil"
+                    /> Civil </div>
+            </div>
+            <div class="row">
+                <div class="col-25"> </div>
+                <div class="col-75"> <input type="Submit" Value="Submit" /> </div>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

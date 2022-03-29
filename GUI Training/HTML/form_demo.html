@@ -1,0 +1,88 @@
+<html>
+
+<head>
+    <title> Student Registration Form </title>
+    <link rel="icon" href="icon.png" /> </head>
+
+<body>
+    <form action="#" name="myForm" method="post">
+        <h3 align="center"> STUDENT REGISTRATION FORM </h3>
+        <table align="center" cellpadding="5">
+            <tr>
+                <td> ID </td>
+                <td> <input type="text" name="ID" placeholder="Student ID" value="1" readonly/> </td>
+                <td><input type="image" name="Profile" accept=".jpg, .png" alt="Profile Image" src="student_profile_photo.png" height="150px" width="150px"> </td>
+            </tr>
+            <tr>
+                <td> First Name : </td>
+                <td> <input type="text" name="First_Name" placeholder="First Name" required maxlength="50" autofocus /> </td>
+            </tr>
+            <tr>
+                <td> Last Name : </td>
+                <td> <input type="text" name="Last_Name" placeholder="Last Name" required maxlength="50" autocomplete="off" /> </td>
+            </tr>
+            <tr>
+                <td> Gender : </td>
+                <td> Male <input type="radio" name="Gender" value="male" /> Female <input type="radio" name="Gender" value="female" /> </td>
+            </tr>
+            <tr>
+                <td> Moblie No. </td>
+                <td> <input type="text" name="Mobile" placeholder="Moblie Number" required maxlength="13" autocomplete="on" /> </td>
+            </tr>
+            <tr>
+                <td> Email : </td>
+                <td> <input type="email" name="Email" placeholder="Email Id" maxlength="250" /> </td>
+            </tr>
+            <tr>
+                <td> Password : </td>
+                <td><input type="Password" name="Password" placeholder="Password" maxlength="250" /> </td>
+            </tr>
+            <tr>
+                <td><label for="Birthdate">Birthdate : </label></td>
+                <td> <input type="date" name="Birthdate" min="1990-01-01" max='2021-01-01' /> </td>
+            </tr>
+            <tr>
+                <td> Address : </td>
+                <td> <textarea name="Address" rows="5" cols="20" placeholder="Address" /> </textarea>
+                </td>
+            </tr>
+            <tr>
+                <td> City : </td>
+                <td> <select name="City" aria-placeholder="City"> <option value="Rajkot">Rajkot</option> <option value="Surat">Surat</option> </select> </td>
+            </tr>
+            <tr>
+                <td> Pincode</td>
+                <td> <input type="number" name="Pincode" placeholder="Pincode" /> </td>
+            </tr>
+            <tr>
+                <td> Select Course :</td> <br>
+                <td> <input type="radio" name="Course " value="Computer " />Computer <input type="radio" name="Course " value="Mechanical " /> Mechanical <input type="radio" name="Course " value="Civil " /> Civil </td>
+            </tr>
+            <tr>
+                <td> Known Language :</td> <br>
+                <td> <label><input type="checkbox" name="Language " value="Gujarati"/>Gujarati</label> <label><input type="checkbox" name="Language " value="Hindi " /> Hindi</label> <label><input type="checkbox" name="Language " value="English " /> English</label>                    </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <fieldset>
+                        <legend>Upload</legend>
+                        <table>
+                            <tr>
+                                <td> <label for="Adhar">Adhar Card</label> </td>
+                                <td> <input type="file" name="Adhar" accept=".jpg, .png, .pdf, .doc, .docx" multiple> </td>
+                            </tr>
+                            <tr>
+                                <td> <input type="checkbox" checked name="IAgree" value="1"> <label>I Agree and all of document are verified.</label> </td>
+                            </tr>
+                        </table>
+                    </fieldset>
+                </td>
+            </tr>
+            <tr>
+                <td> <input type="reset" Value="reset" name="reset" /> </td>
+                <td> <input align="left" type="Submit" Value="Submit" /> </td>
+            </tr> <input type="hidden" name="token" value="dbgrdngoiesmdopmn"> </table>
+    </form>
+</body>
+
+</html>

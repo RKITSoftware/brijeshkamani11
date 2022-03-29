@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#ipbtn").click(function() {
+                $.get("https://api.ipify.org?format=json", function(data, status) {
+                    $("#data").text(JSON.stringify(data));
+                });
+            });
+        });
+        $(document).ready(function() {
+            $("#getuser").click(function() {
+                $.get("https://gorest.co.in/public/v2/users/1", function(data, status) {
+                    $("#data").text(JSON.stringify(data));
+                });
+            });
+        });
+
+        $(document).ready(function() {
+            $("#postuser").click(function() {
+                const user = JSON.parse("{" + $("#data").html().substring(8));
+                // alert();
+                $.ajax({
+                    url: "https://gorest.co.in/public/v2/users?access-tocken=scb8262c5b295695acf57b72252ee544e468daea43fc6ae39a1cf3fc4c60baeb3",
+                    type: 'POST',
+                    // headers: {
+                    //     "Authorization": "Bearer scb8262c5b295695acf57b72252ee544e468daea43fc6ae39a1cf3fc4c60baeb3"
+                    // },
+                    error: function(err) {
+                        alert('Error!', JSON.stringify(err))
+                    },
+                    success: function(data) {
+                        alert('Success!' + JSON.stringify(data))
+
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <p id="data"></p>
+    <button id="ipbtn">check your IP Address</button>
+    <button id="getuser">get random user data</button>
+    <button id="postuser">send random user data</button>
+
+</body>
+
+</html>
