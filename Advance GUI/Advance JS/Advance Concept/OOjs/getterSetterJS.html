@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Getter Setter Demo in JS.</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    txt = document.getElementById("txt");
+    message = txt.innerHTML;
+
+
+
+    const Person = {
+        First_name: "",
+        Second_name: "",
+        get fullName() {
+            return this.First_name + "-" + this.Second_name;
+        },
+
+        set fullName(value) {
+            [this.First_name, this.Second_name] = value.split(" ");
+        }
+    }
+
+
+    Person.fullName = "Brijesh Kamani";
+    alert(Person.fullName);
+</script>
+
+</html>

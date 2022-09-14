@@ -1,0 +1,96 @@
+call,apply,bind
+
+
+storage
+	-sessionstorage
+		broswer close, limit 5 mb
+	-localstorage
+		leaver until clear
+		5 mb
+
+	-cookiee
+		name, path, domain, secure, samesite, expire,max-age
+		cannot create for another domain
+oojs
+	object = {name:value,fun(),fun : fun(), name: {first: "",second: {}}}
+	object.name.first, object['name']['first'] = "John", get, set
+	object['new Property'] = value => create new property or method like this way like -> 	const myDataName = 'height';
+																							const myDataValue = '1.75m';
+																							person[myDataName] = myDataValue;
+																							get, set
+
+
+																							// Change a Property:
+Object.defineProperty(person, "language", {
+  value: "EN",
+  writable : true,
+  enumerable : true,
+  configurable : true
+});
+
+
+	this
+	constructor => new fun(paramerters)
+	obj.__proto__, prototypechain, toString -> in prototype, Object.create(obj) => inheritance;
+
+	es5
+
+	cgarAt(), {name: "", new: ""},trim(), isArray(), forEach()
+	" \
+	 "
+
+	object methods
+
+	 // Create object with an existing object as prototype
+Object.create(parent, donor)
+
+// Adding or changing an object property
+Object.defineProperty(object, property, descriptor)
+
+// Adding or changing object properties
+Object.defineProperties(object, descriptors)
+
+// Accessing Properties
+Object.getOwnPropertyDescriptor(object, property)
+
+// Returns all properties as an array
+Object.getOwnPropertyNames(object)
+
+// Accessing the prototype
+Object.getPrototypeOf(object)
+
+// Returns enumerable properties as an array
+Object.keys(object)
+
+
+protect object 
+// Prevents adding properties to an object
+Object.preventExtensions(object)
+
+// Returns true if properties can be added to an object
+Object.isExtensible(object)
+
+// Prevents changes of object properties (not values)
+Object.seal(object)
+
+// Returns true if object is sealed
+Object.isSealed(object)
+
+// Prevents any changes to an object
+Object.freeze(object)
+
+// Returns true if object is frozen
+Object.isFrozen(object)
+
+
+
+
+ES6
+let,const, arrow, for/of,for/in, new Map(), new Set();, class, Promises, Rest pasramets, defualt parameters
+
+In an object method, this refers to the object.
+Alone, this refers to the global object.
+In a function, this refers to the global object.
+In a function, in strict mode, this is undefined.
+In an event, this refers to the element that received the event.
+Methods like call(), apply(), and bind() can refer this to any object.

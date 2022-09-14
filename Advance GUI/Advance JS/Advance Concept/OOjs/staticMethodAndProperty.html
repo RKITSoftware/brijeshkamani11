@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Implement Static in Method and property in object.</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    txt = document.getElementById("txt");
+    message = txt.innerHTML;
+
+
+    function Book(title, AuthorName) {
+        this.title = title,
+            Book.CountAllObjects = ++Book.CountAllObjects || 1,
+            Book.ShowTotalNumberOfObjects = function() {
+                return Book.CountAllObjects;
+            }
+        this.authorName = AuthorName,
+            this.getAuthorName = function() {
+                return "Author name is " + this.authorName;
+            }
+
+    };
+
+    let book = new Book("Harry Potter", "J.K. Rowling.");
+    message += "new object Book created using Object constructor.<br/>"
+    message += JSON.stringify(book) + "<br/><br/>";
+
+    message += "accessing static property using constructor name.<br/>";
+    message += Book.CountAllObjects + "<br/><br/>";
+
+
+    message += "creating another object wih same constructor.<br/>"
+    let anotherBook = new Book("A Song of Ice and Fire", "George R. R. Martin");
+    message += JSON.stringify(anotherBook) + "<br/><br/>";
+
+    message += "accessing static method using constructor name.<br/>";
+    message += Book.ShowTotalNumberOfObjects() + "<br/><br/>";
+
+    txt.innerHTML = message;
+</script>
+
+</html>

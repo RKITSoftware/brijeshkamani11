@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Create object with object literal.</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    txt = document.getElementById("txt");
+    message = txt.innerHTML;
+
+    // creating using object literal.
+    const book = {
+        title: "Harry Potter",
+        author: {
+            firstName: "Joanne Kathleen",
+            lastName: "Rowling"
+        },
+        getAuthorName: function() {
+            return this.author.firstName + ' ' + this.author.lastName
+        }
+
+    };
+
+    message += "new Object Book created using Object literal.<br/>"
+    message += JSON.stringify(book) + "<br/><br/>";
+    message += "accessing property using object name with Dot notation.<br/>";
+    message += book.title + "<br/><br/>";
+    message += "accessing property using object name with Brackets.<br/>";
+    message += book['title'] + "<br/><br/>";
+    message += "Getting Author Full name by Calling getAuthorName() using object name.<br/>";
+    message += book.getAuthorName() + "<br/><br/>";
+    message += "adding new price property to book object.<br/>";
+    book.price = 5;
+    message += "accessing new  price property of book.<br/>";
+    message += book.price + "<br/><br/>";
+    message += "adding new getIntro() method to book object.<br/>";
+    book.getIntro = function() {
+        return this.title + ' is written by ' + this.author.firstName;
+    }
+    message += "calling new getIntro Property of book.<br/>";
+    message += book.getIntro() + "<br/><br/>";
+
+    txt.innerHTML = message;
+</script>
+
+</html>

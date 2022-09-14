@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Abstraction.</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    txt = document.getElementById("txt");
+    message = txt.innerHTML;
+
+    class Person {
+        constructor() {
+            if (this.constructor == Person) {
+                throw new Error("This Class is abstract you cannot create object of it.");
+            }
+        }
+        info() {
+            throw new Error(" Added abstract Method has no implementation");
+        }
+    }
+
+    class Teacher extends Person {
+        info() {
+            return "I am a Teacher";
+        }
+    }
+    
+
+    message += "creating new object of Person class<br/><br/>"
+    // const person = new Person(); // error
+
+    message += "creating new object of teacher class<br/><br/>"
+    var teacher = new Teacher();
+    message += teacher.info();
+    
+    txt.innerHTML = message;
+</script>
+
+</html>

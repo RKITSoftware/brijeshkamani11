@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+    <p id="output"></p>
+
+
+    <script>
+        let output = document.getElementById("output");
+        let message = output.innerHTML;
+
+        async function getUserAsync(name) {
+            let response = await fetch(`https://api.github.com/users/${name}`);
+            let data = await response.json();
+            return data;
+        }
+
+        responseWillReceive = getUserAsync("brijeshkamani11");
+        console.log(responseWillReceive);
+        responseWillReceive.then((response) => output.innerHTML += JSON.stringify(response));
+        message += "data will be fetched....<br/>";
+        output.innerHTML = message;
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Login V10</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+</head>
+
+<body>
+
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100 p-t-50 p-b-90">
+                <form id="form" class="login100-form validate-form flex-sb flex-w">
+                    <span class="login100-form-title p-b-51">
+						Login
+					</span>
+
+
+                    <div class="wrap-input100 validate-input m-b-16" data-validate="Username is required">
+                        <input id="txtuser" class="input100" type="text" name="username" placeholder="Username">
+                        <span class="focus-input100"></span>
+                    </div>
+
+
+                    <div class="wrap-input100 validate-input m-b-16" data-validate="Password is required">
+                        <input id="txtpass" class="input100" type="password" name="pass" placeholder="Password">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <div class="flex-sb-m w-full p-t-3 p-b-24">
+                        <div class="contact100-form-checkbox">
+                            <input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
+                            <label class="label-checkbox100" for="ckb1">
+								Remember me for 24 hours
+							</label>
+                        </div>
+
+
+                    </div>
+
+                    <div class="container-login100-form-btn m-t-17">
+                        <button class="login100-form-btn">
+							Login
+						</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="js/main.js"></script>
+    <script>
+        var form = document.getElementById('form');
+
+        form.addEventListener("submit", (e) => {
+            e.preventDefault();
+            LoginUser();
+        })
+
+        function LoginUser() {
+
+            var user_input = document.getElementById("txtuser");
+            var pass_input = document.getElementById("txtpass");
+            var remberMe = document.getElementById("ckb1");
+
+
+            var user_value = user_input.value;
+            var pass_value = pass_input.value;
+
+
+
+            // actually here username password will be call from server side
+            // and if user is valid then and then new session ID will be created
+            if (user_value == "admin" && pass_value == "1234") {
+
+                // actual session is created from server
+                // just for demo I created random session id
+                var session_id = '_' + Math.random().toString(36);
+
+                if (remberMe.checked === true)
+                    saveTheCookie(session_id, 1);
+                else
+                    saveTheCookie(session_id);
+                window.location.href = "Simple_CRUD.html";
+                return true;
+            } else {
+                alert("Enter valid username and password!");
+                return false;
+            }
+        }
+    </script>
+
+</body>
+
+</html>

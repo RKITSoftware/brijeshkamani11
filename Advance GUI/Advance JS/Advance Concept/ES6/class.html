@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Working with class</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    txt = document.getElementById("txt");
+    message = txt.innerHTML;
+
+
+    class Person {
+
+        static countTotalPerson = 0;
+        constructor(firstName = "", secondName = "") {
+            this.firstName = firstName,
+                this.secondName = secondName;
+            ++Person.countTotalPerson;
+
+        }
+        get fullName() {
+            return this.firstName + " " + this.secondName;
+        }
+
+
+        set birthDate(value) {
+            this.birthDay = new Date(value);
+        }
+        get Age() {
+            if (this.birthDay != undefined) {
+                return Math.abs(new Date(Date.now() - this.birthDay.getTime()).getUTCFullYear() - 1970);
+            }
+            return undefined;
+        }
+
+        introducesSelf() {
+            return "Hii My name is " + this.fullName + " and My Age is " + this.Age + ".";
+        }
+
+        static totalNumberOfObjects() {
+            return "Total number of object created is " + Person.countTotalPerson;
+        }
+
+
+
+    };
+
+
+
+
+    message += "creating new object of Person class<br/>"
+    const person = new Person("Brijesh", "Kamani");
+    message += JSON.stringify(person) + "<br/><br/>";
+
+
+    message += "getting full name of person using getter.<br/>";
+    message += person.fullName + "<br/><br/>";
+
+    message += "Adding Birthdate using setter.<br/>";
+    person.birthDate = '2001-03-30';
+
+    message += "Printing birthdate.<br/>";
+    message += person.birthDay + "<br/><br/>";
+
+    message += "getting age from Birthdate using getter.<br/>";
+    message += person.Age + "<br/><br/>";
+
+    message += "calling method using object : " + person.introducesSelf() + "<br/><br/>";
+
+    let person1 = new Person();
+    let person2 = new Person();
+    message += "Extra two object created.<br/><br/>"
+
+    message += "accessing Static field Count total number of object: " + Person.countTotalPerson + "<br/>";
+    message += "accessing Static method : " + Person.totalNumberOfObjects() + " <br/>"
+
+    txt.innerHTML = message;
+</script>
+
+</html>

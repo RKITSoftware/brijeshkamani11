@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Create object using constructor.</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    txt = document.getElementById("txt");
+    message = txt.innerHTML;
+
+
+    function Book(title, AuthorName) {
+        this.title = title,
+            this.authorName = AuthorName,
+            this.getAuthorName = function() {
+                return "Author name is " + this.authorName;
+            }
+
+    };
+
+    let book = new Book("Harry Potter", "J.K. Rowling.");
+
+
+    message += "new object Book created using Object constructor.<br/>"
+    message += JSON.stringify(book) + "<br/><br/>";
+    message += "accessing property using object name with Dot notation.<br/>";
+    message += book.title + "<br/><br/>";
+    message += "accessing property using object name with Brackets.<br/>";
+    message += book['title'] + "<br/><br/>";
+    message += "Getting Author Full name by Calling getAuthorName() using object name.<br/>";
+    message += book.getAuthorName() + "<br/><br/>";
+    message += "adding new price property to book object.<br/>";
+    book.price = 599;
+    message += "accessing new  price property of book.<br/>";
+    message += book.price + "<br/><br/>";
+    message += "adding new getIntro() method to book object.<br/>";
+    book.getIntro = function() {
+        return this.title + ' is written by ' + this.authorName;
+    }
+    message += "calling new getIntro Property of book.<br/>";
+    message += book.getIntro() + "<br/><br/>";
+
+    message += "creating another object wih same constructor.<br/>"
+    let anotherBook = new Book("Songs of Ice and Fire", "George R. R. Martin");
+    message += JSON.stringify(anotherBook) + "<br/><br/>";
+
+    message += "adding new property to main constructor.<br/>"
+    Book.prototype.price = 565;
+    message += anotherBook.price + "<br/><br/>";
+
+    txt.innerHTML = message;
+</script>
+
+</html>

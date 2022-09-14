@@ -1,0 +1,325 @@
+https://js.devexpress.com/Overview/jQuery/
+https://js.devexpress.com/Demos/WidgetsGallery/
+https://js.devexpress.com/Documentation/Guide/jQuery_Components/DevExtreme_jQuery_Components/
+https://www.youtube.com/user/DeveloperExpress
+
+
+CheckBox:.........................id, dx-checkbox
+    accessKey
+    ActiveStateEnabled
+    elementAttr
+    disabled.............
+    focusStateEnabled,
+    height............
+    iconSize.......................dx-checkbox-icon
+    hint.....................................................................................
+    isValid......................
+    onContentReady  ________
+    onDisposing             |
+                            -------->{components, element, model}
+    onInitialized   ________|
+    onOptionChanged ---------> {components, fullname, name, element,model}
+    onValueChanged ----------> { ||, + previousvalue, value}...........................
+    readonly
+    rtlEnabled
+    tabIndex
+    text
+    validationError.........................................
+    validationErrors.........................................
+    validationErrorMode.........................................
+    validationStatus.........................................
+    value
+    visible
+    width
+    methods
+        beginUpdate()
+        defaultOption(rule)....................................
+            devices: android: T|F, deviceType , 
+        dispose().........................
+        element()...................
+        endUpdate()
+        focus()...............................
+        getInstance().............................
+        instance()
+        off(eventname),eventHandler).........................
+        on(eventName, eventHandler)........................
+        option()....................
+        option(optionName, optionValue).........................
+        option(options).........................................
+        registerKeyHandler(key, handler).........................
+        repaint()
+        reset()
+        resetOption(optionName)
+
+DateBox
+    acceptCustomValue...............
+    adaptivityEnabled...........
+    applyButtonText
+    applyValueMode..........useButton,instantly
+    buttons.................................clear,dropDown
+        location...........................after,before
+        name.......
+        option
+            text
+            stylingMode
+            width
+            elementAttr
+            onClick(e)
+    calendarOptions...............type=calender
+        {}
+    cancelButtonText        
+    dateOutOfRangeMessage.................
+    dateSerializationFormat....................
+    deferRendering
+    disabled.................
+    disabledDates..............pickerType=calender
+    displayFormate..................native.........useMaskBehavior......formateType
+    inputAttr........
+    invalidDateMessage..........
+    interval................type..time....pickertype..list
+    invalid.....
+    max...............default_50
+    maxLength
+    min..............default___1990
+    onChange, onClosed, onContentReady, onCopy, onCut, onDisposing, onEnterKey, onFocusIn, onFocusOut, onInitialized, onInput
+    onKeyDown, onKeyPress, onKeyUp, onOpened, onOptionChanged, onPaste, onValueChanged
+    opened, openOnFieldClick
+    pickerType..........native,calender, rollers, list
+    placeholder......
+    readonly
+    showAnalogClock.........
+    showClearButton.........
+    showDropDownButton............
+    spellcheck............
+    stylingMode.........'outlined' | 'underlined' | 'filled'
+    text......readonly
+    type..............'date' | 'datetime' | 'time'
+    useMaskBehavior.......
+    value.............Date | Number | String
+    methods
+        close()
+        content()
+        getButton(name)
+        open()
+
+DropDownBox
+    contentTemplate()...........compontans,value
+    acceptCustomValue.................
+    buttons..............'clear' | 'dropDown'
+    displayExpr.........
+    dropDownButtonTemplate............
+    fieldTemplate...................
+    items[]..............
+    maxLength
+    onChange........
+    onClosed.........
+    onCopy........
+    onCut..........
+    onDisposing....   
+    onEnterKey............
+    Opened............
+    openOnFieldClick.................
+    placeholder.....
+    readOnly
+    showClearButton
+    showDropDownButton
+    stylingMode
+    tabIndex
+    text
+    validationError
+    validationErrors
+    validationMessageMode
+    validationStatus    
+    value
+    valueChangeEvent..."keyup", "blur", "change", "input", and "focusout"
+    valueExpr
+
+
+SelectBox:
+    with placeholder, readonly, disabled, Data Source, custome Template, 
+    displayValue
+    noDataText.........
+    onCustomItemCreating
+    onItemClick..........
+    onOpened......
+    displayValue:
+    fieldTemplate........
+    grouped......
+    groupTemplate......
+    dropDownButtonTemplate......:
+    items...........:
+    minSearchLength:
+    searchEnabled.........
+    searchExpr.........
+    searchMode.....'contains' | 'startswith'
+    searchTimeout
+    selectedItem..............
+    showSelectionControls............
+    spellcheck...............
+    wrapItemText.
+
+NumberBox:
+    accessKey
+    buttons[]...... 'clear' | 'spins'
+    disabled
+    format........
+	invalidValueMessage:
+    label.....
+    labelMode........'static' | 'floating' | 'hidden'
+    max........
+    min..........
+    mode............ 'number' | 'text' | 'tel'
+    step....
+    useLargeSpinButtons......
+    valueChangeEvent.......
+
+TextArea:
+    autoResizeEnabled
+    maxLength
+
+TextBox:
+    mask
+    maskChar
+    maskInvalidMessage
+    maskRules
+    mode....... 'email' | 'password' | 'search' | 'tel' | 'text' | 'url'
+    showMaskMode........ 'always' | 'onFocus'
+    spellcheck
+    useMaskedValue
+
+validationGroup:
+    validate()
+        ValidationGroupResult
+            brokenRules
+            complete
+            isValid
+            status
+            validators
+
+ValidationSummary:
+    Items
+    itemTemplate
+    onItemClick
+    validationGroup
+
+
+Validator :
+    onValidated { brokenRule, brokenRules, isValid, name, status, validationRules, value}
+    validationGroup....string
+
+ValidationRules:
+    RequiredRule:
+        message
+        trim
+        type...'required' | 'numeric' | 'range' | 'stringLength' | 'custom' | 'compare' | 'pattern' | 'email' | 'async'
+    NumericRule:
+        ignoreEmptyValue:
+    RangeRule:
+        ignoreEmptyValue
+        max
+        min
+        reevaluate
+    StringLengthRule:
+        same
+    CustomRule:
+        validationCallback:
+    CompareRule:
+        comparisonTarget
+        comparisonType '!=' | '!==' | '<' | '<=' | '==' | '===' | '>' | '>='
+    PatternRule
+        pattern
+    EmailRule
+
+Button:
+    icon......,
+    Text.....,
+    onClick....,
+    stylingMode.....'text' | 'outlined' | 'contained' 
+    type......'back' | 'danger' | 'default' | 'normal' | 'success'
+    useSubmitBehavior
+
+
+FileUploader
+    abortUpload
+    allowCanceling
+    accept
+    allowedFileExtensions
+    chunkSize
+    dialogTrigger
+    dropZone
+    invalidFileExtensionMessage
+    invalidMinFileSizeMessage
+    invalidMaxFileSizeMessage
+    labelText
+    maxFileSize
+    minFileSize
+    multiple
+    onBeforeSend
+    onDropZoneLeave
+    onDropZoneEnter
+    onFilesUploaded
+    onProgress
+    onUploadAborted
+    onUploaded
+    onUploadError
+    onUploadStarted
+    readyToUploadMessage
+    selectButtonText
+    showFileList
+    uploadAbortedMessage
+    uploadButtonText
+    uploadChunk
+    uploadCustomData
+    uploadFailedMessage
+    uploadFile
+    uploadHeaders
+    uploadMethod
+    uploadMode
+    uploadUrl
+    Methods:
+        abortUpload():abortUpload(file) abortUpload(fileIndex)
+        removeFile(file) removeFile(fileIndex)
+        upload() upload(file) upload(fileIndex)
+
+ArrayStore:
+data.
+errorHandfa-pull-left
+    onInserted:
+    onInserting
+    onLoaded
+    onModified
+    onModifying
+    onPush
+    onRemoved
+    onRemoving
+    onUpdated
+    onUpdating
+    byKey(key):
+    clear():
+    createQuery():
+    insert(values):
+    key():
+    keyOf(obj):
+    load(), load(options):
+    push(changes):
+    remove(key):
+    totalCount(options):
+    update(key, values):
+
+
+
+Query(array),Query(url,options):
+    aggregate(seed, step, finalize).........promise
+    aggregate(step)
+    avg(getter),avg()
+    count(), enumerate()
+    filter(criteria), 
+    filter(predicate)
+    groupBy(),groupBy(getter)
+    max(),max(getter)    
+    min(), min(getter): 
+    select(), Select(getter): 
+    slice(skip, take)
+    sortBy(getter),sortBy(getter, desc)
+    sum(),sum(getter)
+    thenBy(getter)

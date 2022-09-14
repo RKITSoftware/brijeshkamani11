@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQueryDemo</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="js/main.js"></script>
+    <script>
+        const authenticateUser = () => {
+
+            var sessionid = getTheCookie("sessionID");
+
+            if (!sessionid) {
+                window.location.href = "login.html";
+            } else {
+                // here sessionId will send to server and check for authentication via cookie.
+                // if user validated successfully he/she can access this page other wise it will redirect to login page.
+
+            }
+        }
+
+        window.onload = authenticateUser();
+    </script>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <form id="form1" method="post">
+            <div id="Add">
+                <h2 style="text-align: center;">Person Detail List</h2>
+                <h3>Add New</h3>
+
+                <div class="first-name">
+                    <label>Enter First Name</label>
+                    <input type="text" placeholder="first name" class="form-control" id="first_name" name="first-name" value="" required/>
+                </div>
+                <div class="last-name">
+                    <label style="padding-top:10px;">Enter Last Name</label>
+                    <input type="text" placeholder="last name" class="form-control" id="last_name" name="last-name" value="" required/>
+                </div>
+                <div class="age">
+                    <label style="padding-top:10px;">Enter Age</label>
+                    <input type="number" placeholder="age" class="form-control" id="age" name="age" value="" required/>
+                </div>
+                <div class="button" style="text-align: center;">
+                    <input class="btn-warning" type="submit" id="btnAdd" style="margin-top: 10px;" value="Add" />
+
+                </div>
+            </div>
+        </form>
+        <input id="myInput" type="text" placeholder="Search..">
+
+        <table class="table table-bordered" id="UserInfo" style="margin-top: 20px;">
+            <thead>
+                <tr>
+                    <!-- <th>ID</th> -->
+                    <th>FirstName</th>
+                    <th>LastName</th>
+                    <th>Age</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="table_td"></tbody>
+        </table>
+
+        <br>
+
+
+    </div>
+
+    <script>
+        $("#form1").submit((e) => {
+            e.preventDefault();
+
+            var fname = $("input[name = 'first-name']").val();
+            var lname = $("input[name = 'last-name']").val();
+            var age = $("input[name = 'age']").val();
+
+            $("#table_td").append(
+                "<tr data-fname='" +
+                fname + "' data-lname='" +
+                lname + "' data-age='" +
+                age + "'><td>" +
+                fname + "</td><td>" +
+                lname + "</td><td>" +
+                age +
+                "</td><td><button class='btn btn-success btn-edit'>Edit</button><button class='btn btn-danger btn-delete' style='margin-left:10px;'>Delete</button></td></tr>");
+
+            $("input[name = 'first-name']").val('');
+            $("input[name = 'last-name']").val('');
+            $("input[name = 'age']").val('');
+        });
+
+        $("body").on("click", ".btn-delete", () => {
+            if (confirm('Are you sure you want to delete this record ?')) {
+                $(this).parents("tr").remove();
+            }
+        });
+
+        $("body").on("click", ".btn-edit", () => {
+            var fname = $(this).parents("tr").attr("data-fname");
+            var lname = $(this).parents("tr").attr("data-lname");
+            var age = $(this).parents("tr").attr("data-age");
+
+            $(this).parents("tr").find("td:eq(0)").html('<input name="edit_fname" value="' + fname + '">');
+
+            $(this).parents("tr").find("td:eq(1)").html('<input name="edit_lname" value="' + lname + '">');
+
+            $(this).parents("tr").find("td:eq(2)").html('<input name="edit_age" value="' + age + '">');
+
+            $(this).parents("tr").find("td:eq(3)").prepend("<button class='btn btn-primary btn-update'>Update</button>")
+
+            $(this).hide();
+
+        });
+
+        $("body").on("click", ".btn-update", () => {
+            var fname = $(this).parents("tr").find("input[name='edit_fname']").val();
+            var lname = $(this).parents("tr").find("input[name='edit_lname']").val();
+            var age = $(this).parents("tr").find("input[name='edit_age']").val();
+
+            $(this).parents("tr").find("td:eq(0)").text(fname);
+
+            $(this).parents("tr").find("td:eq(1)").text(lname);
+            $(this).parents("tr").find("td:eq(2)").text(age);
+
+            $(this).parents("tr").attr('data-fname', fname);
+            $(this).parents("tr").attr('data-lname', lname);
+            $(this).parents("tr").attr('data-age', age);
+
+            $(this).parents("tr").find(".btn-edit").show();
+            $(this).parents("tr").find(".btn-update").remove();
+
+        });
+        $(document).ready(() => {
+            $("#myInput").on("keyup", () => {
+                var value = $(this).val().toLowerCase();
+                $("#table_td tr").filter(() => {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                });
+            });
+        });
+    </script>
+
+</body>
+
+</html>

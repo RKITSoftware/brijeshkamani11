@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Create object using constructor.</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    txt = document.getElementById("txt");
+    message = txt.innerHTML;
+
+    message += "Creating Base Class.<br/>";
+    function Person(fName, lName) {
+        this.firstName = fName;
+        this.lastName = lName;
+    }
+
+    message += "Adding FullName method to base class.<br/><br/>";
+    Person.prototype.getFullName = function () {
+        return this.firstName + ' ' + this.lastName;
+    }
+    
+
+    message += "Creating Child Class.<br/><br/>";
+    function Employee(fName, lName, eId) {
+        Person.call(this, fName, lName);
+        this.empId = eId;
+    }
+    
+
+    message += "Inherit prototype object<br/>";
+    Employee.prototype = Object.create(Person.prototype);
+
+    message += "Reassign constructor function.<br/>";
+    Employee.prototype.constructor = Employee;
+
+    message += "Add methods on prototype of child class.<br/>";
+    Employee.prototype.getEmpInfo = function () {
+        return [this.empId, this.firstName, this.lastName];
+    }
+
+    message += "Creating Object of Child class.<br/>";
+    const employee = new Employee('Jhon', 'Doe', 10);
+    message += "Printing object of Child class.<br/>";
+    message += JSON.stringify(employee) + "<br/><br/>";
+
+    message += "calling method of child class and base class.<br/>";
+    message += employee.getFullName() + "<br/>";
+    message += employee.getEmpInfo() + "<br/>";
+    txt.innerHTML = message;
+</script>
+
+</html>

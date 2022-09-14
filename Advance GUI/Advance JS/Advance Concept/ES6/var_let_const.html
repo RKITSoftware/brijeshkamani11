@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>let var const difference</title>
+</head>
+
+<body>
+    <div id="txt">
+        <p></p>
+    </div>
+
+
+</body>
+
+<script>
+    var greeterVar = "hey hi"; // globally scoped
+    console.log(greeterVar); // "Hey hi"
+
+    // accessing var variable before declaration.
+    console.log(Hoisting) // "undefined"
+    var Hoisting = "Hoisting of var";
+
+
+    let greeterLet = "Hey!";
+    console.log(greeterLet) // "Hey!"
+
+    // accessing let variable before declaration.
+    // console.log(HoistingLet) // "error"
+    let HoistingLet = "Hoisting of let";
+
+    const greeterConst = "Hii!";
+    console.log(greeterConst); // "Hii!"
+
+    // accessing const variable before declaration.
+    // console.log(HoistingConst) // "error"
+    const HoistingConst = "Hoisting of Const";
+
+    {
+        var greeterVar = "Hi Hello";
+        console.log(greeterVar) // "Hi Hello"
+
+        let greeterLet = "Hallo!";
+        console.log(greeterLet) // "Hallo"
+
+        const greeterConst = "HI!";
+        console.log(greeterConst); // "HI!"
+
+    }
+
+
+    console.log("Accessing all variables outside of scope!");
+    console.log(greeterVar); // "Hi Hello"
+    console.log(greeterLet); // Hey!
+    console.log(greeterConst); // Hii!
+
+
+    // updating var
+    greeterVar = "Updated!"
+    console.log(greeterVar) // "Updated!"
+
+    // redeclare var
+    var greeterVar = "Redeclare!";
+    console.log(greeterVar); // "Redeclare!"
+
+    // updating let
+    greeterLet = "Updated!"
+    console.log(greeterLet) / "Updated!"
+
+    // redeclare let
+    // let greeterLet = "Updated!"; "Error"
+
+    // updating const
+    //greeterConst = "Updated!" "Error"
+
+    // redeclare const
+    // const greeterConst = "Redeclare"; "Error"
+</script>
+
+</html>
